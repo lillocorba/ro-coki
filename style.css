@@ -274,14 +274,17 @@ body {
 
     .mapa-1 {
         margin-right: 0px;
+        margin-bottom: 10px;
     }
 
     .mapa-2 {
         margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 20px;
     }
 
     .seccion-vestimenta {
-        padding: 75px 20px 75px 20px;
+        padding: 50px 20px 50px 20px;
         background-color: rgb(245, 245, 245);
         display: flex;
         flex-direction: column;
@@ -292,7 +295,7 @@ body {
         font-size: 36px;
         font-weight: normal;
         text-align: center;
-        margin-bottom: 30px;
+        margin-bottom: 50px;
     }
 
     .seccion-vestimenta h4 {
