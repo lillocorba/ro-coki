@@ -223,6 +223,7 @@ body {
 
     .seccion-portada {
         height: 95vh;
+        background-image: url(imagenes/portada.jpeg);
     }
 
     .seccion-portada h1 {
